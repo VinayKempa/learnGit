@@ -4,3 +4,5 @@ This is a simple readme file
 Some more text
 weewwe
 Modified
+Modified before new branch
+On a branchs
